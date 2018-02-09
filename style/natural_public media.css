@@ -180,6 +180,41 @@
 		margin-top: 2%;
 	}
 	
+	/*table*/
+
+	.table {
+		float: left;
+		width: 30%;
+		min-height: 100px;
+		margin-left: 2%;
+		/* border: 1px solid silver; */
+	}
+
+	.div-table {
+		border-bottom: 1px solid silver;
+		float: left;
+		width: 100%;
+		min-height: 10px;
+		text-align: center;
+		padding-top: 1%;
+		padding-bottom: 1%;
+		margin-bottom: 1%;
+		text-align: center;
+	}
+
+	.block-table {
+		/* border: 1px solid silver; */
+		width: 100%;
+		min-height: 10px;
+		float: left;
+	}
+
+	.block {
+		margin-bottom: 2%;
+		padding-bottom: 2%;
+		border-bottom: 1px solid silver;
+	}
+	
 		/*реклама*/
 
 	.conditionsBlock_2 {
@@ -375,6 +410,42 @@
 		display: block;
 	}
 	
+	/*table*/
+
+	.table {
+		float: left;
+		width: 46%;
+		min-height: 100px;
+		margin-left: 2%;
+		/* border: 1px solid silver; */
+	}
+
+	.div-table {
+		border-bottom: 1px solid silver;
+		float: left;
+		width: 100%;
+		min-height: 10px;
+		text-align: center;
+		padding-top: 1%;
+		padding-bottom: 1%;
+		margin-bottom: 1%;
+		text-align: center;
+	}
+
+	.block-table {
+		/* border: 1px solid silver; */
+		width: 100%;
+		min-height: 10px;
+		float: left;
+	}
+
+	.block {
+		margin-bottom: 2%;
+		padding-bottom: 2%;
+		border-bottom: 1px solid silver;
+	}
+
+	
 	/*реклама*/
 
 	.conditionsBlock_2 {
@@ -461,7 +532,42 @@
 	}
 }
 
-@media only screen and (max-width: 667px) {
+@media only screen and (max-width: 660px) {
+		
+	/*table*/
+
+	.table {
+		float: left;
+		width: 100%;
+		min-height: 100px;
+		margin-left: 0%;
+		/* border: 1px solid silver; */
+	}
+
+	.div-table {
+		border-bottom: 1px solid silver;
+		float: left;
+		width: 100%;
+		min-height: 10px;
+		text-align: center;
+		padding-top: 1%;
+		padding-bottom: 1%;
+		margin-bottom: 1%;
+		text-align: center;
+	}
+
+	.block-table {
+		/* border: 1px solid silver; */
+		width: 100%;
+		min-height: 10px;
+		float: left;
+	}
+
+	.block {
+		margin-bottom: 2%;
+		padding-bottom: 2%;
+		border-bottom: 1px solid silver;
+	}
 		/*реклама*/
 
 	.conditionsBlock_2 {
@@ -666,6 +772,7 @@
 		color: #000;
 		transition: all.6s ease;
 		display: block;
+		margin-bottom: 3%;
 	}
 	
 	.footer-nature {
@@ -702,6 +809,42 @@
 		margin-right: 0%;
 		float: left;
 	}
+	
+	/*table*/
+
+	.table {
+		float: left;
+		width: 100%;
+		min-height: 100px;
+		margin-left: 0%;
+		/* border: 1px solid silver; */
+	}
+
+	.div-table {
+		border-bottom: 1px solid silver;
+		float: left;
+		width: 100%;
+		min-height: 10px;
+		text-align: center;
+		padding-top: 1%;
+		padding-bottom: 1%;
+		margin-bottom: 1%;
+		text-align: center;
+	}
+
+	.block-table {
+		/* border: 1px solid silver; */
+		width: 100%;
+		min-height: 10px;
+		float: left;
+	}
+
+	.block {
+		margin-bottom: 2%;
+		padding-bottom: 2%;
+		border-bottom: 1px solid silver;
+	}
+
 	
 	/*Реклама*/
 	
@@ -914,6 +1057,7 @@
 		color: #000;
 		transition: all.6s ease;
 		display: block;
+		margin-bottom: 3%;
 	}
 	
 	.footer-nature {
@@ -966,6 +1110,42 @@
 		margin-right: 0%;
 		float: left;
 	}
+	
+	/*table*/
+
+	.table {
+		float: left;
+		width: 100%;
+		min-height: 100px;
+		margin-left: 0%;
+		/* border: 1px solid silver; */
+	}
+
+	.div-table {
+		border-bottom: 1px solid silver;
+		float: left;
+		width: 100%;
+		min-height: 10px;
+		text-align: center;
+		padding-top: 1%;
+		padding-bottom: 1%;
+		margin-bottom: 1%;
+		text-align: center;
+	}
+
+	.block-table {
+		/* border: 1px solid silver; */
+		width: 100%;
+		min-height: 10px;
+		float: left;
+	}
+
+	.block {
+		margin-bottom: 2%;
+		padding-bottom: 2%;
+		border-bottom: 1px solid silver;
+	}
+
 	
 	/*реклама*/
 
