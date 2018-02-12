@@ -9,7 +9,15 @@
 html, body {
 	width: 100%;
 	height: 100%;
-	background-color: #fafafa;
+	/* background-color: #fafafa; */
+	color: #fff;
+}
+
+body {
+	background-image: url('../img/fon-nature.jpg'); 
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .not-footer {
@@ -28,6 +36,14 @@ html, body {
 	float: left;
 }
 
+.wrapper {
+	width: 100%;
+	min-height: 100%;
+	float: left;
+	/* background-color: #f7f7f7; */
+	background: rgba(107, 128, 138, 0.8);
+}
+
 /* header */
 
 header {
@@ -44,11 +60,12 @@ header {
 .nature {
 	font-size: 1.7em;
 	margin-left: 7.1em;
-	color: #607D8B; 
+	color: #fff; 
 }
 
 .pablic {
-	color: #607D8B;
+	color: #fff;
+	transition: all.4s ease;
 }
 
 .pablic:hover {
@@ -58,7 +75,7 @@ header {
 
 
 .input {
-	color: #607D8B;
+	color: #fff;
 	margin-left: 0.2%;
 	transition: all.6s ease;
 }
@@ -77,7 +94,7 @@ header {
 	float: left;
 	padding-top: 1%;
 	padding-bottom: 1%;
-	color: #000;
+	color: #fff;
 	transition: all.6s ease;
 }
 
@@ -118,7 +135,7 @@ header {
 	margin-top: 3%;
 	min-height: 46px;
 	text-align: center;
-	color: #000;
+	color: #fff;
 }
 
 .img_advertising {
@@ -156,7 +173,7 @@ header {
 	margin-top: 2%;
 	margin-left: 4%;
 	border-radius: 5%;
-	color: #000;
+	color: #fff;
 	font-family: apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
 	transition: all 0.6s ease;
 }
@@ -316,7 +333,7 @@ header {
 
 footer {
 	border-top: 1px solid silver;
-	height: 45px;
+	height: 60px;
 	padding: 3px;
 	width: 98%;
 	margin-left: 1%;
@@ -332,7 +349,7 @@ footer {
 }
 
 .i {
-	color: #607D8B;
+	color: #fff;
 	transition: all.6s ease;
 }
 
