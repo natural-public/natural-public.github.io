@@ -227,7 +227,7 @@
 		margin-top: 3%;
 		min-height: 46px;
 		text-align: center;
-		color: #000;
+		color: #fff;
 		margin-bottom: 5%;
 		margin-top: 6%;
 	}
@@ -267,7 +267,7 @@
 		margin-top: 2%;
 		margin-left: 4%;
 		border-radius: 5%;
-		color: #000;
+		color: #fff;
 		font-family: apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
 		transition: all 0.6s ease;
 	}
@@ -342,7 +342,7 @@
 		float: left;
 		padding-top: 1%;
 		padding-bottom: 1%;
-		color: #000;
+		color: #fff;
 		transition: all.6s ease;
 	}
 	
@@ -458,7 +458,7 @@
 		margin-top: 3%;
 		min-height: 46px;
 		text-align: center;
-		color: #000;
+		color: #fff;
 		margin-bottom: 5%;
 		margin-top: 6%;
 	}
@@ -498,7 +498,7 @@
 		margin-top: 2%;
 		margin-left: 4%;
 		border-radius: 5%;
-		color: #000;
+		color: #fff;
 		font-family: apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
 		transition: all 0.6s ease;
 	}
@@ -580,7 +580,7 @@
 		margin-top: 3%;
 		min-height: 46px;
 		text-align: center;
-		color: #000;
+		color: #fff;
 		margin-bottom: 5%;
 		margin-top: 6%;
 	}
@@ -620,7 +620,7 @@
 		margin-top: 2%;
 		margin-left: 0%;
 		border-radius: 5%;
-		color: #000;
+		color: #fff;
 		font-family: apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
 		transition: all 0.6s ease;
 	}
@@ -672,7 +672,7 @@
 		float: left;
 		padding-top: 1%;
 		padding-bottom: 1%;
-		color: #000;
+		color: #fff;
 		transition: all.6s ease;
 	}
 	
@@ -769,10 +769,10 @@
 		border-bottom: 1px solid silver;
 		font-size: 1em;
 		margin-top: 5%;
-		color: #000;
+		color: #fff;
 		transition: all.6s ease;
 		display: block;
-		margin-bottom: 10%;
+		margin-bottom: 3%;
 	}
 	
 	.footer-nature {
@@ -860,7 +860,7 @@
 		text-align: center;
 		margin-top: 10%;
 		margin-bottom: 9%;
-		color: #000;
+		color: #fff;
 	}
 
 	.img_advertising {
@@ -898,7 +898,7 @@
 		margin-top: 3%;
 		margin-left: 0%;
 		border-radius: 5%;
-		color: #000;
+		color: #fff;
 		font-family: apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
 		transition: all 0.6s ease;
 		font-size: 1em;
@@ -976,7 +976,7 @@
 		float: left;
 		padding-top: 1%;
 		padding-bottom: 1%;
-		color: #000;
+		color: #fff;
 		transition: all.6s ease;
 	}
 	
@@ -1057,7 +1057,7 @@
 		color: #000;
 		transition: all.6s ease;
 		display: block;
-		margin-bottom: 10%;
+		margin-bottom: 3%;
 	}
 	
 	.footer-nature {
@@ -1161,7 +1161,7 @@
 		text-align: center;
 		margin-top: 10%;
 		margin-bottom: 9%;
-		color: #000;
+		color: #fff;
 	}
 
 	.img_advertising {
