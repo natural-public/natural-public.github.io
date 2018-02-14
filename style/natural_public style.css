@@ -64,12 +64,12 @@ header {
 }
 
 .pablic {
-	color: #4669bc;
+	color: #fff;
 	transition: all.4s ease;
 }
 
 .pablic:hover {
-	color: #ff5722;
+	color: #4669bc;
 	transition: all.6s ease;
 }
 
@@ -349,12 +349,12 @@ footer {
 }
 
 .i {
-	color: #4669bc;
+	color: #fff;
 	transition: all.6s ease;
 }
 
 .i:hover {
-	color: #ff5722;
+	color: #4669bc;
 	transition: all.6s ease;
 }
 
