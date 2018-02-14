@@ -14,7 +14,7 @@ html, body {
 }
 
 body {
-	background-image: url('../img/fon-nature.jpg'); 
+	background-image: url('../img/fon.jpg'); 
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -41,7 +41,7 @@ body {
 	min-height: 100%;
 	float: left;
 	/* background-color: #f7f7f7; */
-	background: rgba(107, 128, 138, 0.8);
+	background: rgba(53, 60, 75, 0.8);
 }
 
 /* header */
