@@ -64,7 +64,7 @@ header {
 }
 
 .pablic {
-	color: #fff;
+	color: #4669bc;
 	transition: all.4s ease;
 }
 
@@ -99,9 +99,9 @@ header {
 }
 
 .cooperationBlock:hover {
-	color: #ffe57f;
+	color: #4669bc;
 	border-radius: 12px;
-	background-color: #ff5722;
+	background-color: none;
 	transition: all.5s ease;
 }
 
@@ -179,7 +179,7 @@ header {
 }
 
 .follow:hover {
-	color: #ff5722;
+	color: #4669bc;
 	background-color: #ffe57f;
 	transition: all 0.4s ease;
 }
@@ -250,9 +250,9 @@ header {
 }
 
 .order:hover {
-	color: #fff;
+	color: #4669bc;
 	border-radius: 12px;
-	background-color: #ff5722;
+	background-color: none;
 	transition: all.4s ease;
 }
 
@@ -349,7 +349,7 @@ footer {
 }
 
 .i {
-	color: #fff;
+	color: #4669bc;
 	transition: all.6s ease;
 }
 
